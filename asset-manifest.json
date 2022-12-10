@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/svegile_app/static/css/main.358de0d5.chunk.css",
-    "main.js": "/svegile_app/static/js/main.019b2589.chunk.js",
-    "main.js.map": "/svegile_app/static/js/main.019b2589.chunk.js.map",
+    "main.js": "/svegile_app/static/js/main.6ef1321f.chunk.js",
+    "main.js.map": "/svegile_app/static/js/main.6ef1321f.chunk.js.map",
     "runtime-main.js": "/svegile_app/static/js/runtime-main.a1bdab62.js",
     "runtime-main.js.map": "/svegile_app/static/js/runtime-main.a1bdab62.js.map",
     "static/css/2.c606fa7f.chunk.css": "/svegile_app/static/css/2.c606fa7f.chunk.css",
@@ -55,6 +55,6 @@
     "static/css/2.c606fa7f.chunk.css",
     "static/js/2.4322f573.chunk.js",
     "static/css/main.358de0d5.chunk.css",
-    "static/js/main.019b2589.chunk.js"
+    "static/js/main.6ef1321f.chunk.js"
   ]
 }
